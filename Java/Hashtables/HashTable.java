@@ -1,8 +1,3 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name - Pranav Rao
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import static java.lang.System.*;
