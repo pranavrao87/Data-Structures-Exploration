@@ -1,8 +1,3 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name - Pranav Rao
-
 public class Number{
     private int theValue;
     
