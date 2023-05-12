@@ -1,8 +1,3 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name - Pranav Rao
-
 public class WordTester{
     public static void main(String[] args){
     	Word one = new Word("45alligator");
