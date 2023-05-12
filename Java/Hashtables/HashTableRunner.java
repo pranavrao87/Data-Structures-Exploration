@@ -1,8 +1,3 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.io.File;
