@@ -1,8 +1,3 @@
-//(c) A+ Computer Science
-//www.apluscompsci.com
-
-//Name -
-
 public class Word{
     private String theValue;
     
