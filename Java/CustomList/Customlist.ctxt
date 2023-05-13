@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Customlist
+comment1.params=v
+comment1.target=Custom(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=data
+comment2.target=Customlist(java.lang.String)
+comment3.params=data
+comment3.target=void\ add(java.lang.String)
+comment4.params=index\ data
+comment4.target=void\ add(int,\ java.lang.String)
+comment5.params=node\ index\ data
+comment5.target=Custom\ addRecursive(Custom,\ int,\ java.lang.String)
+comment6.params=i\ data
+comment6.target=void\ set(int,\ java.lang.String)
+comment6.text=\r\n\ \ \ \ public\ void\ add(int\ index,String\ data){\r\n\ \ \ \ \ \ \ \ Custom\ newNode\ \=\ new\ Custom(data);\r\n\ \ \ \ \ \ \ \ Custom\ n\ \=\ head;\r\n\ \ \ \ \ \ \ \ if(index\ \=\=\ 0){\r\n\ \ \ \ \ \ \ \ \ \ \ \ head\ \=\ newNode;\r\n\ \ \ \ \ \ \ \ \ \ \ \ newNode.nextRef\ \=\ n;\r\n\ \ \ \ \ \ \ \ \ \ \ \ len++;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else{\r\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ index-1;\ i++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ n\ \=\ n.nextRef;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ newNode.nextRef\ \=\ n.nextRef;\r\n\ \ \ \ \ \ \ \ \ \ \ \ n.nextRef\ \=\ newNode;\r\n\ \ \ \ \ \ \ \ \ \ \ \ len++;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment7.params=i
+comment7.target=java.lang.String\ get(int)
+comment8.params=i
+comment8.target=void\ remove(int)
+comment9.params=
+comment9.target=int\ size()
+numComments=11

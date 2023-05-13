@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Custom
+comment1.params=content
+comment1.target=Custom(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getContent()
+comment3.params=content
+comment3.target=void\ setContent(java.lang.String)
+comment4.params=
+comment4.target=Custom\ getNext()
+comment5.params=next
+comment5.target=void\ setNext(Custom)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
