@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Create\ several\ stadium\ pairs\ then\ print\ the\ name\ of\ the\ stadium\ with\ the\ largest\ capacity.\r\n\ \r\n\ @param\ args\ Not\ used.\r\n
+comment1.params=stadiums
+comment1.target=java.lang.String\ largestStadium(ObjectPair[])
+comment1.text=\r\n\ Returns\ the\ name\ of\ the\ stadium\ with\ the\ largest\ capacity.\r\n\ \r\n\ @param\ stadiums\ An\ array\ of\ ObjectPairs\ where\ each\ pair\ contains\ a\ stadium\ name\ followed\ by\ an\r\n\ \ \ \ \ \ \ \ integer\ capacity\r\n\ @return\ The\ name\ of\ the\ stadium\ with\ the\ largest\ capacity\r\n
+numComments=2
